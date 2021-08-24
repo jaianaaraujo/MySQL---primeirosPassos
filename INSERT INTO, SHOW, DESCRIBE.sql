@@ -17,7 +17,7 @@ DESCRIBE `users`;
 
 INSERT INTO `users` 
 (`first_name`, `last_name`, `email`, `password_hash`)
-VALUES ("Luiz", "Miranda", "luiz@email.com", "a_hash"); 
+VALUES ("Jaiana", "Santos", "jaiana@email.com", "a_jaiana"); 
 
 INSERT INTO users (
     first_name,
